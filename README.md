@@ -1,6 +1,5 @@
 # DL-Assignment-2
 # Q1-Sequence-to-Sequence Transliteration Model Comparison
-# Sequence-to-Sequence Model Analysis
 
 ## (a) Number of Computations
 
